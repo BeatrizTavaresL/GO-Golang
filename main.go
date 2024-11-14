@@ -1,4 +1,4 @@
-// Programa de gerenciamento bancário básico em Go.
+// Programa de gerenciamento bancário em Go.
 //
 // Este programa define uma estrutura ContaCorrente para simular operações bancárias simples, como
 // saque, depósito e transferência entre contas. As funções implementadas permitem realizar essas 
